@@ -19,10 +19,10 @@
 
 ## 🎨 Project Interface Preview
 
-| 📊 Centralized Dashboard | 🧠 Activity Metrics | 🥗 Nutrition Profile |
+| 📊 Centralized Dashboard :
 | :---: 
 | <img src="https://github.com/user-attachments/assets/4af5093e-28b7-45d3-b683-a498202745e1" width="100%" /> 
-| <img src="https://github.com/user-attachments/assets/d64a7c20-8b0b-4206-b252-7f090355d433" width="100%" /> 
+| <img src="https://github.com/user-attachments/assets/d64a7c20-8b0b-4206-b252-7f090355d433" width="100%" /> |
 
 ## 🛠️ System Architecture & Tech Stack
 
