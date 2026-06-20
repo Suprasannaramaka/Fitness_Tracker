@@ -95,10 +95,10 @@ To match the high-end look of your new README file, build out a dark-themed, sle
 ### 🖥️ Project Interface Preview
 
 | 📊 Centralized Dashboard | 🧠 Activity Metrics | 🥗 Nutrition Profile |
-| :---: | :---: | :---: |
-|<img width="733" height="715" alt="screenshot_1" src="https://github.com/user-attachments/assets/d64a7c20-8b0b-4206-b252-7f090355d433" /> | -> *Active performance hub tracking metrics.*
-| <img width="286" height="639" alt="screenshot_2" src="https://github.com/user-attachments/assets/0e1e76bc-5738-48bd-b39f-4e9eb98f6f32" /> | ->  *Granular activity analytics mapping.*
-| <img width="1579" height="795" alt="screenshot_3" src="https://github.com/user-attachments/assets/4af5093e-28b7-45d3-b683-a498202745e1" /> | -> *Caloric intake distribution.*
+| <img width="1579" height="795" alt="screenshot_3" src="https://github.com/user-attachments/assets/4af5093e-28b7-45d3-b683-a498202745e1" /> | -> *Active performance hub tracking metrics.*
+|<img width="733" height="715" alt="screenshot_1" src="https://github.com/user-attachments/assets/d64a7c20-8b0b-4206-b252-7f090355d433" /> |  ->  *Granular activity analytics mapping.*
+| <img width="286" height="639" alt="screenshot_2" src="https://github.com/user-attachments/assets/0e1e76bc-5738-48bd-b39f-4e9eb98f6f32" /> | -> *Caloric intake distribution.*
+
 
 
 
