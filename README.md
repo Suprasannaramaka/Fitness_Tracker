@@ -90,4 +90,18 @@ To match the high-end look of your new README file, build out a dark-themed, sle
 
 #### Screen B: The Workout Input Interface :
 * Form control blocks utilizing minimalistic shadcn design cards.
-* A clear button at the top header displaying: `✨ Autogenerate Next Set with AI`. When clicke
+* A clear button at the top header displaying: `✨ Autogenerate Next Set with AI`. When clicked
+
+###ScreenShots of the websites blocks:
+<img width="790" height="398" alt="image" src="https://github.com/user-attachments/assets/ac49e83f-4acd-41fe-803a-517d2e101382" />
+<img width="367" height="358" alt="image" src="https://github.com/user-attachments/assets/f0210ddd-899a-4c26-b2e8-b538a3964f34" />
+<img width="367" height="358" alt="image" src="https://github.com/user-attachments/assets/3f27819d-a76b-449a-9aab-f96e6e485b04" />
+
+
+
+
+
+
+
+
+
