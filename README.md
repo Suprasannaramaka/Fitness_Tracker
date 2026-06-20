@@ -96,8 +96,12 @@ To match the high-end look of your new README file, build out a dark-themed, sle
 
 | 📊 Centralized Dashboard | 🧠 Activity Metrics | 🥗 Nutrition Profile |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/ac49e83f-4acd-41fe-803a-517d2e101382" width="100%" /> | <img src="https://github.com/user-attachments/assets/f0210ddd-899a-4c26-b2e8-b538a3964f34" width="100%" /> | <img src="https://github.com/user-attachments/assets/3f27819d-a76b-449a-9aab-f96e6e485b04" width="100%" /> |
-| *Active performance hub tracking metrics.* | *Granular activity analytics mapping.* | *Caloric intake distribution.* |
+| <img src="https://github.com/user-attachments/assets/ac49e83f-4acd-41fe-803a-517d2e101382" width="100%" /> |
+<img src="https://github.com/user-attachments/assets/f0210ddd-899a-4c26-b2e8-b538a3964f34" width="100%" /> |
+<img src="https://github.com/user-attachments/assets/3f27819d-a76b-449a-9aab-f96e6e485b04" width="100%" /> |
+| *Active performance hub tracking metrics.* |
+*Granular activity analytics mapping.* |
+*Caloric intake distribution.* |
 
 
 
